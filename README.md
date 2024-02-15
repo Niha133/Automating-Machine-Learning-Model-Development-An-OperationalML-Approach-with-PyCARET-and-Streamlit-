@@ -1,1 +1,2 @@
 # Automating-Machine-Learning-Model-Development-An-OperationalML-Approach-with-PyCARET-and-Streamlit-
+A machine learning profiler tool called the OperationalML App was created to assist data scientists and developers in enhancing and optimizing the functionality of their machine learning models. Through the app, users may run machine learning models, upload datasets, conduct exploratory data analysis, and download the best model for later use.
